@@ -1,0 +1,13 @@
+.title {
+  color: #12345678;
+  font-weight: 700;
+  font-size: 30px;
+
+  -webkit-user-select: none;
+
+  -moz-user-select: none;
+
+  -ms-user-select: none;
+
+  user-select: none;
+}

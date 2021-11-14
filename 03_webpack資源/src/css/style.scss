@@ -1,0 +1,8 @@
+$bgColor: orange;
+$textDecoration: underline;
+
+.title {
+  background: $bgColor;
+  -webkit-text-decoration: $textDecoration;
+          text-decoration: $textDecoration;
+}
